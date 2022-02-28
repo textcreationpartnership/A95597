@@ -1,0 +1,178 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A remonstrance of the Kirk of Scotland, and the message from the States, with divers passages of their proceedings concerning the Kings Majestie, and the Estates answer to the Kirk of Scotland. VVith other occurrences of note certified in papers from the Scots quarters in Newcastle. Printed by the originall papers, and published according to order of Parliament.</title>
+            <author>S. T.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1646</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A95597</idno>
+            <idno type="STC">Wing T56</idno>
+            <idno type="STC">Thomason E353_21</idno>
+            <idno type="STC">ESTC R201086</idno>
+            <idno type="EEBO-CITATION">99861652</idno>
+            <idno type="PROQUEST">99861652</idno>
+            <idno type="VID">159874</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A95597)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 159874)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 57:E353[21])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A remonstrance of the Kirk of Scotland, and the message from the States, with divers passages of their proceedings concerning the Kings Majestie, and the Estates answer to the Kirk of Scotland. VVith other occurrences of note certified in papers from the Scots quarters in Newcastle. Printed by the originall papers, and published according to order of Parliament.</title>
+                  <author>S. T.</author>
+                  <author>England and Wales. Parliament.</author>
+                  <author>Scotland. Parliament.</author>
+                  <author>Church of Scotland.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for E.E. according to order,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>Anno Dom. 1646.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Page 6 signed: S.T.</note>
+                  <note>Annotation on Thomason copy: "Sep: 9".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church of Scotland --  Records and correspondence --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Personal narratives --  Early works to 1800.</term>
+               <term>Scotland --  History --  Charles I, 1625-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-03</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-04</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-04</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:159874:1" rendition="simple:additions"/>
+            <p>A REMONSTRANCE OF THE Kirk of Scotland, AND The Meſſage from the States, with divers paſſages of their Proceedings concerning the KINGS Majeſtie, and the Eſtates Anſwer to the Kirk of <hi>SCOTLAND.</hi>
+            </p>
+            <p>VVith other Occurrences of note cer<g ref="char:EOLhyphen"/>tified in Papers from the Scots quarters in <hi>NEWCASTLE.</hi>
+            </p>
+            <p>Printed by the Originall papers, and publiſhed ac<g ref="char:EOLhyphen"/>cording to order of Parliament.</p>
+            <p>
+               <hi>London,</hi> Printed for <hi>E. E.</hi> according to Order, <hi>Anno Dom.</hi> 1646.</p>
+            <pb facs="tcp:159874:2"/>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:159874:2"/>
+            <head>A REMONSTRANCE of the Kirk of <hi>Scotland,</hi> and the Meſſage from the States, with divers paſſages of their proceedings concerning the Kings Majeſtie.</head>
+            <opener>
+               <salute>Noble Sir,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">T</seg>He Commiſſioners of the Kirk at <hi>Eden<g ref="char:EOLhyphen"/>borough,</hi> doe much lament the death of Mr. <hi>Hinderſon;</hi> They are much troubled that the King will not paſſe the Propo<g ref="char:EOLhyphen"/>ſitions, but more that Malignants have had acceſſe to his Majeſty: and where<g ref="char:EOLhyphen"/>as ſome have endeavoured to labour ſo much, for
+<pb n="2" facs="tcp:159874:3"/>
+the Lord <hi>Oglebie,</hi> the Lord <hi>Seeforth</hi> and ſome o<g ref="char:EOLhyphen"/>thers that have acted much miſchiefe in the King<g ref="char:EOLhyphen"/>dome of Scotland, that alſo is a great grief to them<g ref="char:punc">▪</g> They have drawne up a Remonſtrance, and pre<g ref="char:EOLhyphen"/>ſented it to the Committee of Eſtates of Edenbo<g ref="char:EOLhyphen"/>rough, the ſubſtance of which is as followeth;</p>
+            <p n="1">1. That whereas divers ill-aff<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>cted Malignants and ſeditious Incendiaries, have from time to time carried on evill deſignes to deſtroy the Kirk and State, they do Remonſtrate unto the Committee of Eſtates againſt the countenancing of the enemies of God, and his people, deſiring them to conſider what deſignes they have had to deſtroy the people of God, and of what dangerous conſequence it is to receive ſuch ill-affected perſons into favour.</p>
+            <p n="2">2. That whereas there hath been an happy and bleſſed peace between the two Kingdomes of Scot<g ref="char:EOLhyphen"/>land and England, concluded and ſetled by both Parliaments, that they will uſe all poſſible meanes that they may remaine in a firme peace and union to all poſteritie; And there do Remonſtrate to the Eſtates how the malicious enemies do daily ſeeke (by all means they can) to deride between the two Nations, which evill deſigne of theirs they deſire that all poſſible care may be taken to prevent.</p>
+            <p n="3">3. That whereas many ill-affected perſons ſeeke to deſtroy the work of Reformation ſo happily (al<g ref="char:EOLhyphen"/>ready) begun, they do deſire that all poſſible endea<g ref="char:EOLhyphen"/>vour may be uſed to bring the Churches of God in the 3. Kingdomes, to the neareſt conjunction and
+<pb n="3" facs="tcp:159874:3"/>
+informity in Religion and Church Government (according to the Covenant) unto a perfect Refor<g ref="char:EOLhyphen"/>mation.</p>
+            <p n="4">4. That they do deſire that all poſſible care may be taken to performe whatſoever is contained in the Covenant of the three Kingdomes.</p>
+            <p>To this Remonſtrance (received by the Com<g ref="char:EOLhyphen"/>mittee of Eſtates) they have returned a very fair an<g ref="char:EOLhyphen"/>ſwer, aſſuring them that they will be carefull to preſerve the union of the Kingdomes, and the kee<g ref="char:EOLhyphen"/>ping of the Covenants, and many other fair promi<g ref="char:EOLhyphen"/>ſes concerning the Kirk; and what elſe is deſired in the aforeſaid Remonſtrance put up to them from the Commiſſioners. But for his Majeſties procee<g ref="char:EOLhyphen"/>dings here, there are many jealouſies upon him, not onely becauſe of his great int<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rcourſe with the <hi>French</hi> Embaſſadors, but alſo his great eſtimation of Newters, as Marqueſſe <hi>Hamilton</hi> and others, ſome 2. or 3. of whoſe kindred his Lordſhip hopes to pre<g ref="char:EOLhyphen"/>vaile with his Majeſty to have them made Vicounts, but if his Majeſtie do grant any ſuch thing, I do ve<g ref="char:EOLhyphen"/>rily believe that the Eſtates will not confer it, ſo they will be but tituler at the beſt. But his Majeſty hath made 2. Worſhipfull Knights, one of them is <hi>Archiball Primroſe,</hi> ſometimes Secretary to the Eſtates of <hi>Scotland,</hi> till <hi>Montroſſe</hi> had him, there was a jealouſie on him formerly, that hee went away purpoſely to <hi>Montroſse,</hi> and carried the parch<g ref="char:EOLhyphen"/>ments, papers, and other writings of the E<g ref="char:EOLhyphen"/>ſtates<g ref="char:punc">▪</g> to betray them to him, but hee makes this Apologie for himſelfe, that a Troope of
+<pb n="4" facs="tcp:159874:4"/>
+horſe ſurpriſed him, and carried him away priſo<g ref="char:EOLhyphen"/>ner, and that he did not carry away the writings but hid them; Yet when he was taken againe by the Eſtates, he had like to have been hanged about it; But he ſince pleades his innocencie, and is now made a Knight by his Majeſtie.</p>
+            <p>The other new made Knight is Mr. <hi>Weatherburn,</hi> who was formerlie the Town Clerke of <hi>Dundee,</hi> upon whom was alſo a verie great ſuſpicion, that he was not right to the Eſtates, others ſay that it was onelie an inclination towards the King, and that when Dundee ſtood out againſt <hi>Mont<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>oſſe,</hi> and put that great affront upon his Armie at that place that this Mr. <hi>Weatherburne</hi> was the chiefe man that acted in the Towne; yet moſt ſay that he was al<g ref="char:EOLhyphen"/>waies obſerved to be too much inclined for the King, and therefore his Majeſtie hath alſo Knigh<g ref="char:EOLhyphen"/>ted him ſince his Majeſtie being at Newcaſtle.</p>
+            <p>Now concerning his Majeſties being in theſe parts, and the number of the Malignants about the Biſhoprick; I know not what may hinder, but that if his Majeſtie ſhould deſire it, (which God for<g ref="char:EOLhyphen"/>bid) both he, and they, may very eaſilie, either go from Newcaſtle by Sea to France or Ireland, or by land to Scotland.</p>
+            <p>And for the Scottiſh ſouldiers, I underſtand that when they depart the Kingdome and disband, they have thoughts (moſt of them) of going beyond the Seas to ſerve in ſome other Warres, and therefore
+<pb n="5" facs="tcp:159874:4"/>
+cry out for monies preſently to be paid them, be<g ref="char:EOLhyphen"/>cauſe they can only make uſe of what is paid forth<g ref="char:EOLhyphen"/>with, they being reſolved to paſſe beyond the Seas as ſoone as they are gone out of this Kingdome.</p>
+            <p>There are come hither to Newcaſtle, nine Com<g ref="char:EOLhyphen"/>miſſioners with a Meſſage from the Eſtates of Scot<g ref="char:EOLhyphen"/>land met at Edenborough, the Lords are the Mar<g ref="char:EOLhyphen"/>queſſe <hi>Hambleton,</hi> the Earle of <hi>Craford</hi> and the Lord <hi>Caſtles,</hi> with 3. of the Gentrie and 3. Com<g ref="char:EOLhyphen"/>moners, it is ſuppoſed that they will doe little be<g ref="char:EOLhyphen"/>fore they heare the reſolutions of the Parliament; but their buſineſſe is about requeſts to be made to his Majeſtie in the behalfe of the Kingdome of England and Scotland, to deſire his Majeſtie that he will yet at laſt take into conſideration the ſad and bleeding conditions of his people, and hearken to his Parliaments in paſſing the Propoſitions of both Kingdomes, I doubt not but all poſſible meanes will be uſed with his Majeſty for that pur<g ref="char:EOLhyphen"/>poſe; wee have here other godly Miniſters who preach well to perſwade the King to that effect by their Sermons.</p>
+            <p>And the Scots Officers and Souldiers on their returne into Scotland that are reſolved to goe to Sea, when they have received their monies from the Parliament, they will be gone, ſome to France, ſome to Holland, ſome to Flanders, there are verie many of them that are of this reſolution, as they
+<pb n="6" facs="tcp:159874:5"/>
+ſay, and the Countrie do much deſire to be eaſed of their quartering upon them.</p>
+            <p>As for the reſolution of his Majeſtie, I cannot certifie you any more then what I have already ex<g ref="char:EOLhyphen"/>preſt, but upon the going away of the Scots, it muſt of neceſſitie appeare how his Majeſtie is incli<g ref="char:EOLhyphen"/>ned by his going or ſtaying, by the reſt you ſhall be advertiſed more at large from</p>
+            <closer>
+               <dateline>Newcaſtle <date>the <gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>4. of <hi>Sept.</hi> 1646.</date>
+               </dateline>
+               <signed>Your dutifull ſervant <hi>S. T.</hi>
+               </signed>
+            </closer>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
